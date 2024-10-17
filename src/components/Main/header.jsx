@@ -1,4 +1,4 @@
-import Logo from '../../../public/logo.png';
+import Logo from '../../../public/logo.webp';
 import '../Main/main.css';
 import '../Main/media-queries.css';
 
@@ -19,16 +19,16 @@ export function Main() {
                             <a href="#sobre">Sobre</a>
                         </li>
                         <li className='minha-li text-black hover:text-purple-800 transition'>
-                            <a href="">Serviço</a>
+                            <a href="#servico">Serviço</a>
                         </li>
                         <li className='minha-li text-black hover:text-purple-800 transition'>
-                            <a href="">Contato</a>
+                            <a href="#contato">Contato</a>
                         </li>
                     </ul>
                 </div>
             </header>
 
-            <main className="meu-main flex flex-col justify-center">
+            <main className="meu-main mr-2 flex flex-col justify-center">
                 <div className='ml-7 md:ml-3'>
                     <h1 className='meu-h1'>QUER TRANSFORMAR SUA EMPRESA?</h1>
                     <h2 className='meu-h2 mt-3 hidden md:block'>
@@ -39,7 +39,9 @@ export function Main() {
                     </h2>
                     <h2 className='meu-h2-mob md:hidden'>A BOLD chegou aquecida no mercado, justamente para isto, para resolver seu problema de uma forma eficiente e<br></br> didática, pra que você decole.<br></br>Então entre em contato conosco <span className='font-bold text-purple-300'>AGORA!</span></h2>
                 </div>
-                <a href='' className='flex hover:bg-purple-500 transition-all ml-3 h-10 text-sm md: mt-5 bg-purple-700 w-56 items-center justify-center rounded-3xl font-semibold text-white'>DECOLAR AGORA!</a>
+                <a href='' className='hover:bg-purple-500 transition-all h-10 ml-6 md:ml-2 text-sm flex items-center mt-5 bg-purple-700 w-56 justify-center rounded-3xl font-semibold text-white'>
+                    DECOLAR AGORA!
+                </a>
             </main>
         </>
     );
