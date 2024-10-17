@@ -1,4 +1,4 @@
-import Logo from '../../../public/Logo.png'
+import Logo from '../../../public/logo.png'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import '../../components/About/about.css'
 import { faMapPin } from '@fortawesome/free-solid-svg-icons/faMapPin'
