@@ -1,0 +1,23 @@
+html {
+    scroll-behavior: smooth;
+}
+
+.meu-about {
+    h1 {
+        font-family: "Montserrat", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 900;
+        font-size: 20px;
+        color: #5e17eb;
+        font-style: normal;
+    }
+
+    h2 {
+        font-family: "Montserrat", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 600;
+        font-size: 13px;
+        color: #000000;
+        font-style: normal;
+    }
+}
