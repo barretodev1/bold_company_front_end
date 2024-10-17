@@ -13,7 +13,7 @@ export function About() {
                 <img className='h-24' src={Logo} alt="Logo" />
             </figure>
 
-            <div className='flex flex-col gap-10 items-center mt-6 justify-center md:flex-row mt-4'>
+            <div className='flex flex-col gap-10 items-center mt-6 justify-center md:flex-row'>
                 <div className='meu-about hover:translate-x-0 md:hover:-translate-x-2 transition-all flex items-center justify-center flex-col border bg-zinc-400 h-80 w-64 rounded-2xl p-4'>
                     <h1 className='sticky top-0 bg-zinc-400 p-2 z-10'>MISSÃO</h1>
                     <h2 className='flex items-center justify-center text-center p-4'>Nossa missão é DECOLAR o teu negócio, e te ajudar a lucrar, inovar e capacitar cada vez mais clientes, vamos pegar na sua mão, e te ajudar até a decolagem de sua empresa.</h2>
