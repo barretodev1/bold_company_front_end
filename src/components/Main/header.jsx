@@ -37,6 +37,7 @@ export function Main() {
                         eficiente e didática, pra que você decole.<br />
                         Então entre em contato conosco <span className='font-bold text-purple-300'>AGORA</span>!
                     </h2>
+                    <h2 className='meu-h2-mob md:hidden'>A BOLD chegou aquecida no mercado, justamente para isto, para resolver seu problema de uma forma eficiente e<br></br> didática, pra que você decole.<br></br>Então entre em contato conosco <span className='font-bold text-purple-300'>AGORA!</span></h2>
                 </div>
             </main>
         </>
