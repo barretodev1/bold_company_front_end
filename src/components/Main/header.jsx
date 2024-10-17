@@ -39,6 +39,7 @@ export function Main() {
                     </h2>
                     <h2 className='meu-h2-mob md:hidden'>A BOLD chegou aquecida no mercado, justamente para isto, para resolver seu problema de uma forma eficiente e<br></br> didática, pra que você decole.<br></br>Então entre em contato conosco <span className='font-bold text-purple-300'>AGORA!</span></h2>
                 </div>
+                <a href='' className='flex hover:bg-purple-500 transition-all ml-7 h-10 text-sm md: ml-3 mt-5 bg-purple-700 w-56 items-center justify-center h-12 rounded-3xl text-lg font-semibold text-white'>DECOLAR AGORA!</a>
             </main>
         </>
     );
