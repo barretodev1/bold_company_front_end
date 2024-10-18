@@ -91,7 +91,7 @@ export function Service() {
                     <h1 className='mt-10 flex items-center justify-center'>WebSite</h1>
                         <div className='div-web flex flex-col items-start'>
                             <p className='mt-5'>Quer um WebSite? Com diversas rotas, imagens e atrações intuitivas, para prender seu cliente através de gatilhos mentais? Então entre em contato <span className='text-purple-600 font-bold'>AGORA!</span></p>
-                            <a className='mt-4' href="">QUERO LUCRAR</a>
+                            <a className='mt-4' href="https://api.whatsapp.com/send?phone=5511933255476&text=Ol%C3%A1!%20Tudo%20bem?%0APreciso%20lucrar%20mais!%20Vamos%20fazer%20o%20or%C3%A7amento%20de%20um%20WebSite?">QUERO LUCRAR</a>
                         </div>
                     </div>
 
@@ -101,7 +101,7 @@ export function Service() {
                         <h1 className='mt-10 flex items-center justify-center'>Tráfego Pago</h1>
                         <div className='div-web flex flex-col items-start'>
                             <p className='mt-5'>Quer vender e captar mais clientes no seu business né? Relaxa que temos o essencial pra você! Vamos te mostrar o poder do nosso Tráfego Pago. Então entre em contato <span className='text-purple-600 font-bold'>AGORA!</span></p>
-                            <a className='mt-4' href="">QUERO LUCRAR</a>
+                            <a className='mt-4' href="https://api.whatsapp.com/send?phone=5511933255476&text=Ol%C3%A1!%20Tudo%20bem?%0APreciso%20lucrar%20mais!%20Vamos%20fazer%20o%20or%C3%A7amento%20de%20um%20Tr%C3%A1fego%20Pago?">QUERO LUCRAR</a>
                         </div>
                     </div>
                 </div>
@@ -113,7 +113,7 @@ export function Service() {
                         <h1 className='mt-10 flex items-center justify-center'>Landing Page</h1>
                         <div className='div-web flex flex-col items-start'>
                             <p className='mt-5'>Está com dificuldades em captar <span className='text-green-900 font-extrabold'>LEADS</span>, né? Que tal uma Landing Page? Garanto que irá te ajudar imensamente! Então entre em contato <span className='text-purple-600 font-bold'>AGORA!</span></p>
-                            <a className='mt-4' href="">QUERO LUCRAR</a>
+                            <a className='mt-4' href="https://api.whatsapp.com/send?phone=5511933255476&text=Ol%C3%A1!%20Tudo%20bem?%0APreciso%20captar%20mais%20leads!%20Vamos%20fazer%20o%20or%C3%A7amento%20de%20uma%20Landing%20Page?">QUERO LUCRAR</a>
                         </div>
                     </div>
 
@@ -123,7 +123,7 @@ export function Service() {
                         <h1 className='mt-10 flex items-center justify-center'>E-commerce</h1>
                         <div className='div-web flex flex-col items-start'>
                             <p className='mt-5'>Opa! Está com quase tudo pronto, mas precisa do seu E-commerce (Site), para vender diretamente pelo site, né? Então entre em contato <span className='text-purple-600 font-bold'>AGORA!</span></p>
-                            <a className='mt-4' href="">QUERO LUCRAR</a>
+                            <a className='mt-4' href="https://api.whatsapp.com/send?phone=5511933255476&text=Ol%C3%A1!%20Tudo%20bem?%0APreciso%20criar%20a%20minha%20loja!%20Vamos%20fazer%20o%20or%C3%A7amento%20de%20um%20E-Commerce?">QUERO LUCRAR</a>
                         </div>
                     </div>
                 </div>
@@ -134,7 +134,7 @@ export function Service() {
                         <h1 className='mt-10 flex items-center justify-center'>Social Media</h1>
                         <div className='div-web flex flex-col items-start'>
                             <p className='mt-5'>Já esta grande nas redes sociais, ou precisa de uma administração profissional e eficiente? Que ganhe cada vez mais clientes? Eu posso resolver pra você. Então entre em contato <span className='text-purple-600 font-bold'>AGORA!</span></p>
-                            <a className='mt-4' href="">QUERO LUCRAR</a>
+                            <a className='mt-4' href="https://api.whatsapp.com/send?phone=5511933255476&text=Ol%C3%A1!%20Tudo%20bem?%0APreciso%20gerenciar%20minhas%20redes!%20Quero%20contratar%20um%20Social%20Media!">QUERO LUCRAR</a>
                         </div>
                     </div>
                 </div>

@@ -42,7 +42,7 @@ export function Main() {
                     </h2>
                     <h2 className='meu-h2-mob mt-2 md:hidden'>A BOLD chegou aquecida no mercado, justamente para isto, para resolver seu problema de uma forma eficiente e<br></br> didática, pra que você decole.<br></br>Então entre em contato conosco <span className='font-bold text-purple-300'>AGORA!</span></h2>
                 </div>
-                <a href='' className='hover:bg-purple-500 transition-all h-10 ml-6 md:ml-2 text-sm flex items-center mt-5 bg-purple-700 w-56 justify-center rounded-3xl font-semibold text-white'>
+                <a href='https://api.whatsapp.com/send?phone=5511933255476&text=Ol%C3%A1!%20Tudo%20bem?%20' className='hover:bg-purple-500 transition-all h-10 ml-6 md:ml-2 text-sm flex items-center mt-5 bg-purple-700 w-56 justify-center rounded-3xl font-semibold text-white'>
                     DECOLAR AGORA!
                 </a>
             </main>
