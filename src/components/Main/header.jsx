@@ -22,6 +22,9 @@ export function Main() {
                             <a href="#servico">Serviço</a>
                         </li>
                         <li className='minha-li text-black hover:text-purple-800 transition'>
+                            <a href="#projects">Projetos</a>
+                        </li>
+                        <li className='minha-li text-black hover:text-purple-800 transition'>
                             <a href="#contato">Contato</a>
                         </li>
                     </ul>
@@ -37,7 +40,7 @@ export function Main() {
                         eficiente e didática, pra que você decole.<br />
                         Então entre em contato conosco <span className='font-bold text-purple-300'>AGORA</span>!
                     </h2>
-                    <h2 className='meu-h2-mob md:hidden'>A BOLD chegou aquecida no mercado, justamente para isto, para resolver seu problema de uma forma eficiente e<br></br> didática, pra que você decole.<br></br>Então entre em contato conosco <span className='font-bold text-purple-300'>AGORA!</span></h2>
+                    <h2 className='meu-h2-mob mt-2 md:hidden'>A BOLD chegou aquecida no mercado, justamente para isto, para resolver seu problema de uma forma eficiente e<br></br> didática, pra que você decole.<br></br>Então entre em contato conosco <span className='font-bold text-purple-300'>AGORA!</span></h2>
                 </div>
                 <a href='' className='hover:bg-purple-500 transition-all h-10 ml-6 md:ml-2 text-sm flex items-center mt-5 bg-purple-700 w-56 justify-center rounded-3xl font-semibold text-white'>
                     DECOLAR AGORA!

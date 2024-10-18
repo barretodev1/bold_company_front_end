@@ -9,12 +9,9 @@ import TP from '../../../public/trafego.webp'
 import BLOG from '../../../public/blog.webp'
 import '../Service/service.css'
 import '../Service/service-mobile.css'
-import { height } from '@fortawesome/free-solid-svg-icons/fa0';
-
 
 export function Service() {
 
-     
         useEffect(() => {
             AOS.init({
                 duration: 1000, // duração da animação
