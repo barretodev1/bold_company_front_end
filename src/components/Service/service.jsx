@@ -22,7 +22,7 @@ export function Service() {
     return (
         <section id='servico' className="flex flex-col items-center justify-center p-16">
             <figure className='flex items-center justify-center'>
-                <img className='flex h-13 md:h-13' src={Servico} />
+                <img className='flex h-14 w-96 md:h-20' src={Servico} />
             </figure>
 
             <main className='flex items-center justify-center gap-7 mt-16 flex-col md:hidden'>
