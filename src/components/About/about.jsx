@@ -12,10 +12,10 @@ export function About() {
         
         <section id='sobre' className='p-16'>
             <figure className='flex items-center justify-center'>
-                <img className='h-24' src={Logo} alt="Logo" />
+                <img className='h-24 w-72 md:h-28' src={Logo} alt="Logo" />
             </figure>
 
-            <div className='flex flex-col gap-10 items-center mt-20 justify-center md:flex-row'>
+            <div className='flex flex-col gap-10 items-center mt-16 justify-center md:flex-row'>
                 <div className='meu-about flex w-80 hover:translate-x-0 md:hover:-translate-x-2 transition-all items-center justify-center flex-col border bg-zinc-400 h-80 rounded-2xl p-4'>
                     <h1 className='bg-zinc-400 p-2 z-10'>MISSÃO</h1>
                     <h2 className='flex items-center justify-center text-center p-4'>Nossa missão é DECOLAR o teu negócio, e te ajudar a lucrar, inovar e capacitar cada vez mais clientes, vamos pegar na sua mão, e te ajudar até a decolagem de sua empresa.</h2>
