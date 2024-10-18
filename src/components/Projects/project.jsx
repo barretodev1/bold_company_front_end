@@ -32,8 +32,8 @@ export function Projects() {
                         </div>
                         <h2 className="experience-sub-title project-title">Advocacia</h2>
                         <div className="btn-container">
-                            <button className="btn btn-color-2 project-btn" onclick="location.href='https://github.com/barretodev1/advocaciaBarreto'">Github</button>
-                            <button className="btn btn-color-2 project-btn" onclick="location.href='https://advocaciabarreto.netlify.app/'">Site</button>
+                            <a className="cursor-pointer btn btn-color-2 project-btn" href='https://github.com/barretodev1/advocaciaBarreto'>Github</a>
+                            <a className="cursor-pointer btn btn-color-2 project-btn" href='https://advocaciabarreto.netlify.app/'>Site</a>
                         </div>
                     </div>
                     <div data-aos="flip-right" className="details-container color-container bg-zinc-400">
@@ -42,8 +42,8 @@ export function Projects() {
                         </div>
                         <h2 className="experience-sub-title project-title">LinkTree</h2>
                         <div className="btn-container">
-                            <button className="btn btn-color-2 project-btn" onclick="location.href='https://github.com/barretodev1/linktree'">Github</button>
-                            <button className="btn btn-color-2 project-btn" onclick="location.href='https://mylinktreebarreto.netlify.app/'">Site</button>
+                            <a className="cursor-pointer btn btn-color-2 project-btn" href='https://github.com/barretodev1/linktree'>Github</a>
+                            <a className="cursor-pointer btn btn-color-2 project-btn" href='https://mylinktreebarreto.netlify.app/'>Site</a>
                         </div>
                     </div>
                     <div data-aos="flip-left" className="details-container color-container bg-zinc-400">
@@ -52,8 +52,8 @@ export function Projects() {
                         </div>
                         <h2 className="experience-sub-title project-title">Restaurante</h2>
                         <div className="btn-container">
-                            <button className="btn btn-color-2 project-btn" onclick="location.href='https://github.com/barretodev1/restaurante'">Github</button>
-                            <button className="btn btn-color-2 project-btn" onclick="location.href='https://myrestaurantebarreto.netlify.app/'">Site</button>
+                            <a className="cursor-pointer btn btn-color-2 project-btn" href='https://github.com/barretodev1/restaurante'>Github</a>
+                            <a className="cursor-pointer btn btn-color-2 project-btn" href='https://myrestaurantebarreto.netlify.app/'>Site</a>
                         </div>
                     </div>
 
@@ -63,8 +63,8 @@ export function Projects() {
                         </div>
                         <h2 className="experience-sub-title project-title">Microsoft</h2>
                         <div className="btn-container">
-                            <button className="btn btn-color-2 project-btn" onclick="location.href='https://github.com/barretodev1/meuMicro'">Github</button>
-                            <button className="btn btn-color-2 project-btn" onclick="location.href='https://meumicro.netlify.app/'">Site</button>
+                            <a className="cursor-pointer btn btn-color-2 project-btn" href='https://github.com/barretodev1/meuMicro'>Github</a>
+                            <a className="cursor-pointer btn btn-color-2 project-btn" href='https://meumicro.netlify.app/'>Site</a>
                         </div>
                     </div>
 
@@ -74,8 +74,8 @@ export function Projects() {
                         </div>
                         <h2 className="experience-sub-title project-title">Animação</h2>
                         <div className="btn-container">
-                            <button className="btn btn-color-2 project-btn" onclick="location.href='https://github.com/barretodev1/projectAnimation'">Github</button>
-                            <button className="btn btn-color-2 project-btn" onclick="location.href='https://myprojectanimation.netlify.app/'">Site</button>
+                            <a className="cursor-pointer btn btn-color-2 project-btn" href='https://github.com/barretodev1/projectAnimation'>Github</a>
+                            <a className="cursor-pointer btn btn-color-2 project-btn" href='https://myprojectanimation.netlify.app/'>Site</a>
                         </div>
                     </div>
 
@@ -85,8 +85,8 @@ export function Projects() {
                         </div>
                         <h2 className="experience-sub-title project-title">ReArts</h2>
                         <div className="btn-container">
-                            <button className="btn btn-color-2 project-btn" onclick="location.href='https://github.com/barretodev1/ReArts/tree/master'">Github</button>
-                            <button className="btn btn-color-2 project-btn" onclick="location.href='https://rearts.netlify.app/'">Site</button>
+                            <a className="cursor-pointer btn btn-color-2 project-btn" href='https://github.com/barretodev1/ReArts/tree/master'>Github</a>
+                            <a className="cursor-pointer btn btn-color-2 project-btn" href='https://rearts.netlify.app/'>Site</a>
                         </div>
                     </div>
 
@@ -96,8 +96,8 @@ export function Projects() {
                         </div>
                         <h2 className="experience-sub-title project-title">Rarity</h2>
                         <div className="btn-container">
-                            <button className="btn btn-color-2 project-btn" onclick="location.href='https://github.com/barretodev1/RarityProject'">Github</button>
-                            <button className="btn btn-color-2 project-btn" onclick="location.href='https://raritytech.netlify.app/'">Site</button>
+                            <a className="cursor-pointer btn btn-color-2 project-btn" href='https://github.com/barretodev1/RarityProject'>Github</a>
+                            <a className="cursor-pointer btn btn-color-2 project-btn" href='https://raritytech.netlify.app/'>Site</a>
                         </div>
                     </div>
 
@@ -107,8 +107,8 @@ export function Projects() {
                         </div>
                         <h2 className="experience-sub-title project-title">Carla Dias Nutri</h2>
                         <div className="btn-container">
-                            <button className="btn btn-color-2 project-btn" onclick="location.href='https://github.com/barretodev1/example-nutri'">Github</button>
-                            <button className="btn btn-color-2 project-btn" onclick="location.href='https://examplenot.netlify.app/'">Site</button>
+                            <a className="cursor-pointer btn btn-color-2 project-btn" href='https://github.com/barretodev1/example-nutri'>Github</a>
+                            <a className="cursor-pointer btn btn-color-2 project-btn" href='https://examplenot.netlify.app/'>Site</a>
                         </div>
                     </div>
 
