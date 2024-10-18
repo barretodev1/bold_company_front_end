@@ -31,7 +31,7 @@ export function Main() {
                 </div>
             </header>
 
-            <main className="meu-main mr-2 flex flex-col justify-center">
+            <main className="meu-main flex flex-col justify-center">
                 <div className='ml-7 md:ml-3'>
                     <h1 className='meu-h1'>QUER TRANSFORMAR SUA EMPRESA?</h1>
                     <h2 className='meu-h2 mt-3 hidden md:block'>
