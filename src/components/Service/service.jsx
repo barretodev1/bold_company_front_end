@@ -21,11 +21,11 @@ export function Service() {
 
     return (
         <section id='servico' className="flex flex-col items-center justify-center p-16">
-            <figure className='flex items-center justify-center'>
-                <img className='flex h-14 w-96 md:h-20' src={Servico} />
-            </figure>
+            <div className='flex items-center justify-center'>
+                <h1 className='service-h1'>SERVIÇO</h1>
+            </div>
 
-            <main className='flex items-center justify-center gap-7 mt-16 flex-col md:hidden'>
+            <main className='flex items-center justify-center gap-7 mt-10 flex-col md:hidden'>
                 <div className='flex flex-col gap-8 md:hidden'>
                 <div data-aos="fade-up" className='div-service flex items-center flex-col bg-zinc-400 p-10 rounded-2xl'>
                     <img className='flex h-10 w- md:h-20' src={WebSit} />

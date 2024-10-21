@@ -1,4 +1,13 @@
 @media (max-width: 428px) {
+
+    .service-h1 {
+        font-family: "Montserrat", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 900;
+        font-size: 46px;
+        color: #5e17eb;
+        font-style: normal;
+    }
     
     .div-service {
         height: 36rem;

@@ -23,8 +23,8 @@ export function Projects() {
 
     return (
         <section className='flex items-center justify-center flex-col mt-15 md:mt-10' id="projects">
-            <img className='img-project flex items-center justify-center' src={PJ} alt="" />
-            <div className="experience-details-container">
+                <h1 className='service-h1'>PROJETOS</h1>
+                <div className="experience-details-container">
                 <div className="about-containers">
                     <div data-aos="flip-left" className="details-container color-container bg-zinc-400">
                         <div className="article-container">
