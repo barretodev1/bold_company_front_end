@@ -17,17 +17,17 @@ export function Contact() {
 
                     <div className="flex flex-col items-center justify-center bg-zinc-400 w-72 h-56 rounded-3xl p-10">
                         <FontAwesomeIcon className="h-14" icon={faInstagram} />
-                        <a className="meu-a-contact flex mt-8 bg-black w-44 h-10 items-center justify-center rounded-3xl" href="">ENTRE EM CONTATO</a>
+                        <a className="meu-a-contact flex mt-8 bg-black w-44 h-10 items-center justify-center rounded-3xl" href="https://www.instagram.com/oboldcompany/">ENTRE EM CONTATO</a>
                     </div>
 
                     <div className="flex flex-col items-center justify-center bg-zinc-400 w-72 h-56 rounded-3xl p-10">
                         <FontAwesomeIcon className="h-14" icon={faWhatsapp} />
-                        <a className="meu-a-contact flex mt-8 bg-black w-44 h-10 items-center justify-center rounded-3xl" href="">ENTRE EM CONTATO</a>
+                        <a className="meu-a-contact flex mt-8 bg-black w-44 h-10 items-center justify-center rounded-3xl" href="https://api.whatsapp.com/send?phone=5511933255476&text=Ol%C3%A1!%20Tudo%20bem?%20">ENTRE EM CONTATO</a>
                     </div>
 
                     <div className="flex flex-col items-center justify-center bg-zinc-400 w-72 h-56 rounded-3xl p-10">
                         <FontAwesomeIcon className="h-14" icon={faEnvelopeOpen} />
-                        <a className="meu-a-contact flex mt-8 bg-black w-44 h-10 items-center justify-center rounded-3xl" href="">ENTRE EM CONTATO</a>
+                        <a className="meu-a-contact flex mt-8 bg-black w-44 h-10 items-center justify-center rounded-3xl" href="mailto:caiobarreto1acim@gmail.com?subject=Contato%20Bold&body=Mande%20Aqui">ENTRE EM CONTATO</a>
                     </div>
 
                 </div>
