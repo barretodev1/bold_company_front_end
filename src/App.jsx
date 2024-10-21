@@ -3,6 +3,7 @@ import { About } from './components/About/about.jsx'
 import { Service } from './components/Service/service.jsx'
 import { Projects } from './components/Projects/project.jsx'
 import { Contact } from './components/Contact/contact.jsx'
+import { Footer } from './components/Footer/footer.jsx'
 
 function App() {
 
@@ -13,6 +14,7 @@ function App() {
     <Service />
     <Projects />
     <Contact />
+    <Footer />
     </>
   )
 }
